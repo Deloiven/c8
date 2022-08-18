@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\учеба\c#8\61dop\bin\Debug\net6.0\61dop.exe
+C:\Users\user\Desktop\учеба\c#8\61dop\bin\Debug\net6.0\61dop.deps.json
+C:\Users\user\Desktop\учеба\c#8\61dop\bin\Debug\net6.0\61dop.runtimeconfig.json
+C:\Users\user\Desktop\учеба\c#8\61dop\bin\Debug\net6.0\61dop.dll
+C:\Users\user\Desktop\учеба\c#8\61dop\bin\Debug\net6.0\61dop.pdb
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.AssemblyInfo.cs
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.dll
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\refint\61dop.dll
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.pdb
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\61dop.genruntimeconfig.cache
+C:\Users\user\Desktop\учеба\c#8\61dop\obj\Debug\net6.0\ref\61dop.dll
